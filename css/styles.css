@@ -87,8 +87,14 @@ a:hover {
 .pro {
   text-decoration: underline;
 }
+.profile {
+  width: 50%;
+  padding: 0 3rem;
+  margin: auto;
+}
 .intro {
-  width: 30%;
+  width: 50%;
+  padding: 0 3rem;
   margin: auto;
 }
 
